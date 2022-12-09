@@ -1,2 +1,0 @@
-generateToken function is used in login route, here we will generate the user token using jwt.sign() function which is used by us for checking whether the particular user has been logged-in or not and we will save this in database
-
